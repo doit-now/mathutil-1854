@@ -8,6 +8,14 @@
 * A demonstration of using CI (Continuous Integration) with GitHub Actions 
 * ...
 
+## Screenshots
+### TDD, DDT test script with JUnit
+![TDD DDT test script](https://github.com/doit-now/mathutil-1854/blob/main/screenshots/TDD_DDT%20with%20JUnit.png)
+
+### Buid app with Maven
+![Maven builder](https://github.com/doit-now/mathutil-1854/blob/main/screenshots/Maven%20Builder.png)
+
+
 ### Connect me via: hoang.nguyenthe@gmail.com 
 
-#### &#169; 2025 giáo.làng 
+#### &#169; 2025 giáo.làng
